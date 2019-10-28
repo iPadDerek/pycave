@@ -2,7 +2,7 @@ import sys
 import os
 import math
 import sdl2
-import sdl2.sdlimage
+#import sdl2.sdlimage
 import sdl2.ext
 import untangle
 import traceback
